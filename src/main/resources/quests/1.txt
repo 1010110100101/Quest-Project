@@ -1,0 +1,32 @@
+Quest ID: 1
+Author: 1
+Quest Name: Quest 1
+Question 1: Question 1
+Option 1: Variant 1_1
+Option 2: Variant 1_2
+Option 3: Variant 1_3
+Option 4: Variant 1_4
+Correct Answer: 2
+---
+Question 2: Question 2
+Option 1: Variant 2_1
+Option 2: Variant 2_2
+Option 3: Variant 2_3
+Option 4: Variant 2_4
+Correct Answer: 3
+---
+---
+Question 3: Question 3
+Option 1: Variant 3_1
+Option 2: Variant 3_2
+Option 3: Variant 3_3
+Option 4: Variant 3_4
+Correct Answer: 1
+---
+---
+Question 4: Question 4
+Option 1: Variant 4_1
+Option 2: Variant 4_2
+Option 3: Variant 4_3
+Option 4: Variant 4_4
+Correct Answer: 4
